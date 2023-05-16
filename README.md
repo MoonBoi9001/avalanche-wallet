@@ -19,7 +19,7 @@ This is the frontend Vue.js application for the Avalanche (AVAX) Wallet.
 
 In order for the wallet to work, it needs the Avalanche network to operate on. By default the wallet will connect to the Avalanche mainnet.
 
-1. If you want to connect to a local network, make sure you have installed and able to run a AvlaancheGo node properly.
+1. If you want to connect to a local network, make sure you have installed and able to run an AvalancheGo node properly.
 2. Run the project with hot reloading `yarn serve`
 
 When you go to the website on your browser, you might get a warning saying
